@@ -1,0 +1,46 @@
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.exe.config
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.exe
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.pdb
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csprojAssemblyReference.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.Form1.resources
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.Properties.Resources.resources
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csproj.GenerateResource.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.exe
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\3.OOP\24.10\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.exe.config
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csprojAssemblyReference.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.Form1.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.Properties.Resources.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csproj.GenerateResource.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csprojAssemblyReference.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.Form1.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.Properties.Resources.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csproj.GenerateResource.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.exe.config
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\24.10.2019-\WFA_PersonelTakip-20191025T181117Z-001\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\3-oop\24.10.2019-\WFA_PersonelTakip-güncelle-sil\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.exe.config
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\3-oop\24.10.2019-\WFA_PersonelTakip-güncelle-sil\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\3-oop\24.10.2019-\WFA_PersonelTakip-güncelle-sil\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\3-oop\24.10.2019-\WFA_PersonelTakip-güncelle-sil\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csprojAssemblyReference.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\3-oop\24.10.2019-\WFA_PersonelTakip-güncelle-sil\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.Form1.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\3-oop\24.10.2019-\WFA_PersonelTakip-güncelle-sil\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.Properties.Resources.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\3-oop\24.10.2019-\WFA_PersonelTakip-güncelle-sil\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csproj.GenerateResource.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\3-oop\24.10.2019-\WFA_PersonelTakip-güncelle-sil\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\3-oop\24.10.2019-\WFA_PersonelTakip-güncelle-sil\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\for github\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.exe.config
+C:\Users\FATIH SIVASLIOGLU\Desktop\for github\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\for github\WFA_PersonelTakip\WFA_PersonelTakip\bin\Debug\WFA_PersonelTakip.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\for github\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csprojAssemblyReference.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\for github\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.Form1.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\for github\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.Properties.Resources.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\for github\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.csproj.GenerateResource.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\for github\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\for github\WFA_PersonelTakip\WFA_PersonelTakip\obj\Debug\WFA_PersonelTakip.pdb
